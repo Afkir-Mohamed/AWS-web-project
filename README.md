@@ -15,6 +15,9 @@ Automated deployment or pushing changes from dev → production
 How to use / get started:
 
 1. Clone the repository.
-2.Ensure your SSH key or GitHub credentials are set up on your machine (or EC2 instance).
-3.Push your changes (typically using the main branch).
-4.(Optional) Use CI/CD pipeline or scripts to deploy changes automatically.
+   
+2. Ensure your SSH key or GitHub credentials are set up on your machine (or EC2 instance).
+
+3. Push your changes (typically using the main branch).
+
+4. (Optional) Use CI/CD pipeline or scripts to deploy changes automatically.
